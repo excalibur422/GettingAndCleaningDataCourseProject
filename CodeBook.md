@@ -36,11 +36,3 @@ Part 5:
       The result is saved as tidydata.txt
       
       
-      
-      
-      
-      
-      
-      
-      
-      
