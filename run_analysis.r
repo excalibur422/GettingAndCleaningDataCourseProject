@@ -28,7 +28,7 @@ names(Y) <- "activity"
 
 names(S) <- "subject"
 cleaned <- cbind(S, Y, X)
-write.table(cleaned, "merged_clean_data.txt")
+write.table(cleaned, "combined_data.txt")
 head(cleaned)
 
 uniqueSubjects = unique(S)[,1]
